@@ -19,3 +19,5 @@ If you see the following role on this list, its not avaliable in townsquare:
 - Kazali
 - Ojo
 - Yaggababble
+
+To edit your json to make it useable in clocktower.online, simply replace the role's name in the json (including the quotes around it) with the full text of the role (including the curly brackets)
