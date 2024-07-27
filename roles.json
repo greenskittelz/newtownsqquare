@@ -164,6 +164,21 @@
 		"team": "outsider",
 		"ability": "If you die, the storyteller gains a not-in-play Minion ability."
     	},
+	{
+		"id":"zealot",
+		"name": "Zealot",
+		"edition":"custom",
+		"image":"https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png",
+		"firstNight": 0,
+		"firstNightReminder": "",
+		"otherNight": 0,
+		"otherNightReminder": "",
+		"reminders": [],
+		"remindersGlobal": [],
+		"setup": false,
+		"team": "outsider",
+		"ability": "If there are 5 or more players alive, you must vote for every nomination."
+    	},
     	{
     		"id":"harpy",
 		"name": "Harpy",
