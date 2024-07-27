@@ -12,6 +12,7 @@ If you see the following role on this list, its not avaliable in townsquare:
 - Hatter
 - Ogre
 - Plague Doctor
+- Zealot
 - Harpy
 - Organ Grinder
 - Summoner
