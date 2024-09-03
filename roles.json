@@ -240,6 +240,21 @@
 		"ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately."
 	},
 	{
+		"id":"lordoftyphon",
+		"name": "Lord of Typhon",
+		"edition":"custom",
+        	"image":"https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png",
+        	"firstNight": 1.5,
+		"firstNightReminder": "No Minions are initially set up. Then, once the Lord of Typhon token has been given, a number of players directly clockwise and counterclockwise of the Lord of Typhon must be woken up and shown a unique Minion and the fact that they are evil.",
+        	"otherNight": 31.5,
+        	"otherNightReminder": "The Lord of Typhon chooses which player dies tonight.",
+        	"reminders": ["Dead"],
+        	"remindersGlobal": [],
+        	"setup": true,
+        	"team": "demon",
+        	"ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]" 
+	},
+	{
 		"id":"kazali",
 		"name": "Kazali",
 		"edition":"custom",
